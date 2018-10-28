@@ -36,7 +36,6 @@
             android:layout_width="281dp"
             android:layout_height="wrap_content"
             android:inputType="textPersonName"
-            android:text="add new food"
             android:ems="10"
             android:id="@+id/addFoodText" android:layout_marginStart="8dp"
             app:layout_constraintStart_toStartOf="parent" android:layout_marginEnd="8dp"
